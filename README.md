@@ -88,30 +88,30 @@ Browser ───────────────► Judge0 CE
         Code Execution
 ```
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```text
 DOCKER-AWS/
-│
 ├── Backend/
 │   ├── public/
 │   ├── package.json
 │   ├── package-lock.json
 │   └── server.js
-│
 ├── Frontend/
 │   ├── public/
 │   ├── src/
-│   │   ├── app/
-│   │   │   ├── App.jsx
-│   │   │   └── App.css
+│   │   └── app/
+│   │       ├── App.jsx
+│   │       └── App.css
 │   │   └── main.jsx
 │   ├── package.json
 │   ├── package-lock.json
 │   └── vite.config.js
-│
 ├── .dockerignore
 ├── .gitignore
 ├── dockerfile
 └── README.md
+```
 
 👩‍💻 Author
 
