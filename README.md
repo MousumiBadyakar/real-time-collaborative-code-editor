@@ -12,7 +12,13 @@ A web-based collaborative coding workspace where multiple users can edit code in
 - Multiple users in the same workspace
 - Real-time participant presence
 - Team chat
-- Multi-language support- JavaScript - Python - Java - C++ - C - Go
+- Multi-language support
+   - JavaScript
+   - Python
+   - Java
+   - C++
+   - C
+   - Go
 - Shared language selection across connected users
 - Monaco Editor for code editing
 - Code execution with Judge0
